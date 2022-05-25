@@ -29,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Oracle 10g & 11g](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![AS400/DB2](https://img.shields.io/badge/AS400-F80000?style=for-the-badge&logo=AS400&logoColor=black) ![Azure Cosmos DB](https://img.shields.io/badge/CosmosDB-%2300f.svg?style=for-the-badge&logo=CosmosDB&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![PervasiveSQL](https://img.shields.io/badge/PervasiveSQL-%23316192.svg?style=for-the-badge&logo=PervasiveSQL&logoColor=white)
 
 **Data Wharehouse / Lakehouse**
+
 ![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-%23316192.svg?style=for-the-badge&logo=PervasiveSQL&logoColor=white) ![SQL Data Wharehouse](https://img.shields.io/badge/SQL_Data_Wharehouse-%2307405e.svg?style=for-the-badge&logo=PervasiveSQL&logoColor=white)
 
 **Frameworks**
